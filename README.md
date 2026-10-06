@@ -14,6 +14,18 @@ CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 202
 - Calculate the average Customer Lifetime Value (CLV) by plan. Compare this to the Customer Acquisition Cost (CAC). Which plans are the most and least profitable?
 
 # Dataset
+- There are two datasets provided by the company and they are monthly_revenue and subscriptions
+- There are 600 rows and 17 columns in the subscriptions table while the monthly_revenue has 48 rows with 8 columns
+
+# Tools and technologies
+- SQL and PowerBi
+
+# Methodology / Process
+- data cleaning
+
+# Key insights
+
+# Recommendations
 
 
 
